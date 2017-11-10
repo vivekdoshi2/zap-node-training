@@ -1,0 +1,13 @@
+Node
+
+1) What ?
+2) Why ?
+3) How ?
+4) let var const  
+5) function / anonymous function (ES6) , what is ES6
+6) callback function
+
+7) Promise (code flow)
+8) Axios
+9) Co
+10) Generators (Advanced)
